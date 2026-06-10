@@ -24,4 +24,5 @@ No teriminal certifique de estar no diretório correto e execute o comando:
 java --module-path "VacinePlus/bin;VacinePlus/postgresql-42.7.11.jar" --module VacinePlus/view.MainFrame
 
 ## 📸 Preview
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d4f130d5-cf15-48b1-a5e4-eebdcc64c746" />
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/2022a7b8-926c-4fab-9e99-05be191a87e7" />
+
